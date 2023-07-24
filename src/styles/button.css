@@ -1,0 +1,4 @@
+.button {
+    @apply bg-blue-700 p-1 rounded-md;
+    @apply  hover:bg-blue-800 duration-[0.2s]
+}
